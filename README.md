@@ -26,3 +26,7 @@ MERN Authentication, Login, Register, verification email, Facebook, Google, Forg
 -   User can't access Private Routes without login.
 -   Error Handling.
 -   Professioanl Code Structure
+
+## Silent Features:
+
+https://full-mern-authentication.netlify.app/
